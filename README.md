@@ -13,7 +13,7 @@ Based on [TodoMVC](http://todomvc.com/).
 
 ## Features
 
-* RESTful JSON APIs via AJAX to allow content editing without page refresh
+RESTful JSON APIs via AJAX to allow content editing without page refresh
 
 ## Versioning
 
