@@ -1,24 +1,20 @@
-# README
+# Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A dynamic, single-page to-do application that allows users to rapidly edit content via RESTful JSON APIs and JavaScript. [Check it out here!](https://todo-haley-mnatzaganian.herokuapp.com/)
 
-Things you may want to cover:
+Based on [TodoMVC](http://todomvc.com/).
 
-* Ruby version
+## Built With
 
-* System dependencies
+* PostgreSQL
+* Rspec
+* factory_girl
+* Bootstrap
 
-* Configuration
+## Features
 
-* Database creation
+* RESTful JSON APIs via AJAX to allow content editing without page refresh
 
-* Database initialization
+## Versioning
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 5.0.1
